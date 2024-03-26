@@ -1,6 +1,5 @@
-# Tech Dive 2024
+# MedEase
 
-## Welcome !
 ### __Medical Report Management Made Painless__
 Med Ease is a web application that allows doctors to read and manage structured radiology reports as an assessment of x-ray images for exams of patients with COVID-19.
 
