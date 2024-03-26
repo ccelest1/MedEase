@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&family=Gravitas+One&family=Press+Start+2P&family=Rubik:wght@300&display=swap');
+
+.App {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#error404 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+}
+
+.exam-info {
+  margin-top: 20px;
+  background-color: white;
+  text-align: left;
+}
